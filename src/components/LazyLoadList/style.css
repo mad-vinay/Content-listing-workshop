@@ -1,0 +1,8 @@
+.col-4 img {
+    width: 100%;
+}
+
+.row .text-left {
+    text-align: left;
+    margin-top: 5px;
+}
